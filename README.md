@@ -212,4 +212,4 @@ Microsoft Small Basic is offered as a full free version with all features and up
 Take the first step towards becoming a professional developer. **Download Microsoft Small Basic for free today!**
 
 ---
-**Last updated:** 2026-09-27 21:54:45 UTC
+**Last updated:** 2026-09-28 00:24:58 UTC
